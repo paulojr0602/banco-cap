@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.banco</groupId>
-	<artifactId>capgemini</artifactId>
+	<artifactId>cap</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>capgemini</name>
-	<description>Projeto JAVA Spring Boot + Angular 5</description>
+	<name>cap</name>
+	<description>Projeto JAVA Spring Boot + Angular 10</description>
 
 	<properties>
 		<java.version>14</java.version>
